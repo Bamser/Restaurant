@@ -13,10 +13,8 @@
 
 html {
   font-family: "Open Sans", sans-serif;
-
   /* равнозначно 10px */
   font-size: 0.69445vw;
-
   font-style: normal;
   font-weight: normal;
   -webkit-animation: bugfix infinite 1s;
@@ -164,6 +162,7 @@ samp {
   font-size: 1.4rem;
   line-height: 1.36;
   text-transform: uppercase;
+  border-radius: 0.5rem;
 }
 .title span {
   color: #bc9060;
